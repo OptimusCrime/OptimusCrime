@@ -2,7 +2,8 @@
 
 - **[Forecast Guess](https://forecastguess.com/) – Daily forecast guessing game for three random cities around the world.**
 - **[Quizlista.no](https://quizlista.no/) – Quizzes all across Norway.**
-- [Solitaire Showdown](https://solitaire.optimuscrime.net/) – Reimplementation of the game Solitaire Showdown from MSN Messenger (multiplayer using websockets).
+- [Solitaire Showdown](https://solitaire.optimuscrime.net/) – Reimplementation of the game Solitaire Showdown from MSN Messenger (multiplayer game).
+- [Oslomarkakart](https://oslomarka.optimuscrime.net/) – Public paths around Oslo, including shortest path calculations ([source](https://github.com/optimuscrime/oslomarka)).
 - [Blu-ray Index](https://blu.optimuscrime.net) – A website that shows Blu-ray releases ([source](https://github.com/OptimusCrime/blu-ray-index)).
 - [FPL Live Match](https://fpl.optimuscrime.net) – Show FPL matches live with points for all players on the field ([source](https://github.com/OptimusCrime/fpl-live-match)).
 - [Noreg](https://noreg.optimuscrime.net/) – Tracking jogging and running exercises across Norway ([source](https://github.com/OptimusCrime/trdosl)).
@@ -16,6 +17,7 @@
 ### Other stuff
 
 - **[IdeaVim](https://github.com/OptimusCrime/ideavim) – My IdeaVim configuration.**
+- **[sunspot-core](https://github.com/OptimusCrime/sunspot-core) – REST API that calculates sun/shade times for a given location using LiDAR data.** 
 
 ### iOS applications
 
