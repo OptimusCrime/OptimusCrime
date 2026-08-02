@@ -1,4 +1,4 @@
-### Websites
+### Websites and web applications
 
 - **[Forecast Guess](https://forecastguess.com/) – Daily forecast guessing game for three random cities around the world.**
 - **[Quizlista.no](https://quizlista.no/) – Quizzes all across Norway.**
@@ -7,11 +7,12 @@
 - [Blu-ray Index](https://blu.optimuscrime.net) – A website that shows Blu-ray releases ([source](https://github.com/OptimusCrime/blu-ray-index)).
 - [FPL Live Match](https://fpl.optimuscrime.net) – Show FPL matches live with points for all players on the field ([source](https://github.com/OptimusCrime/fpl-live-match)).
 - [Noreg](https://noreg.optimuscrime.net/) – Tracking jogging and running exercises across Norway ([source](https://github.com/OptimusCrime/trdosl)).
-- [Youkok2.com](https://youkok2.com/) – A website with student material ([source](https://github.com/OptimusCrime/youkok2)).
-- [Learn Braille](https://optimuscrime.github.io/learn-braille/) – A website that teaches you how to read Braille ([source](https://optimuscrime.github.io/learn-braille/)).
-- [Learn Doomsday Algorithm](https://optimuscrime.github.io/learn-doomsday-algorithm/) – A website that teaches you how to use the Doomsday Algorithm ([source](https://optimuscrime.github.io/learn-doomsday-algorithm/)).
 - [Last.fm On This Day](https://optimuscrime.github.io/lastfm-on-this-day/) – A website that shows your Last.fm listening history on this day ([source](https://github.com/OptimusCrime/lastfm-on-this-day)).
 - [Tigers Kycklingstuds](https://optimuscrime.github.io/tigers-kycklingstuds/) – Reimplementation of the Flash game Tigers Kycklingstuds ([source](https://github.com/OptimusCrime/tigers-kycklingstuds)).
+- _[Youkok2.com](https://youkok2.com/) – A website with student material - Now discontinued ([source](https://github.com/OptimusCrime/youkok2))._
+- [Learn Braille](https://optimuscrime.github.io/learn-braille/) – A website that teaches you how to read Braille ([source](https://github.com/OptimusCrime/learn-braille)).
+- [Learn Doomsday Algorithm](https://optimuscrime.github.io/learn-doomsday-algorithm/) – A website that teaches you how to use the Doomsday Algorithm ([source](https://github.com/OptimusCrime/learn-doomsday-algorithm)).
+- [Learn Sum](https://optimuscrime.github.io/learn-sum/) – A simple website that teaches you how to add numbers in your head ([source](https://github.com/OptimusCrime/learn-sum)).
 
 
 ### Other stuff
